@@ -1,2 +1,2 @@
 # MyPyBooks
-Books I have completed and the codes. 
+Throughout my learning journey, books have helped me a lot. They provide a structured approach and can serve as a long-term reference. While reading programming-related books, practicing the codes is a must. In this repository, I have included the practiced codes I have done along with the reading. In some cases, I have modified the codes to make things easier for me. I also added some additional explanations of the codes. Feel free to check. 
